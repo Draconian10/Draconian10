@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Draconian10.Draconian10" />
 
-# Hello, World! 👋 I'm Yash Pankhania
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=F70000&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Pankhania!;" />
+</h1>
 
 I'm a data enthusiast and aspiring Data Scientist currently pursuing my Master's in Information Systems from Northeastern University, Boston. With a strong foundation in Computer Science and hands-on experience in Data Engineering and Machine Learning, I am eager to contribute to projects that drive innovation and solve real-world problems. Here's more about me:
 
@@ -24,6 +26,17 @@ I'm a data enthusiast and aspiring Data Scientist currently pursuing my Master's
     - [LinkedIn](https://linkedin.com/in/yash-pankhania)
     - [GitHub](https://github.com/Draconian10)
 
+<div align="center"> 
+  <a href="mailto:y.pankhania@somaiya.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yash-pankhania" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+
 ## 🔧 Projects
 
 - **[TMNIST Alphabets Classification using CNN](https://github.com/Draconian10/TMNIST_Alphabets_Classification_Using_CNN)**
@@ -39,7 +52,8 @@ I'm a data enthusiast and aspiring Data Scientist currently pursuing my Master's
 
 ![Draconian10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Draconian10&show_icons=true&theme=radical)
 
-## 🐍 Snake Eating My Contribution
-![snake gif](https://github.com/Draconian10/Draconian10/blob/output/github-contribution-grid-snake.svg)
-
 Let's connect and build something awesome together!
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=F70000&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Connect!;" />
+</h1>
