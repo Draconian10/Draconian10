@@ -37,7 +37,7 @@ I'm a data enthusiast and aspiring Data Scientist currently pursuing my Master's
 
 ![Draconian10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Draconian10&show_icons=true&theme=radical)
 
-## Snake Eating My Contribution
+## 🐍 Snake Eating My Contribution
 ![snake gif](https://github.com/Draconian10/Draconian10/blob/output/github-contribution-grid-snake.svg)
 
 Let's connect and build something awesome together!
