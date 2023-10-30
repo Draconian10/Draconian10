@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Draconian10.Draconian10" />
+
 # Hello, World! 👋 I'm Yash Pankhania
 
 I'm a data enthusiast and aspiring Data Scientist currently pursuing my Master's in Information Systems from Northeastern University, Boston. With a strong foundation in Computer Science and hands-on experience in Data Engineering and Machine Learning, I am eager to contribute to projects that drive innovation and solve real-world problems. Here's more about me:
