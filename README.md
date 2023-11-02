@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Draconian10.Draconian10" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDraconian10%2FDraconian10&labelColor=%23ee4b2b&countColor=%23ffffff" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=F70000&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Pankhania!;" />
