@@ -7,7 +7,7 @@
 I'm a data enthusiast and aspiring Data Scientist currently pursuing my Master's in Information Systems from Northeastern University, Boston. With a strong foundation in Computer Science and hands-on experience in Data Engineering and Machine Learning, I am eager to contribute to projects that drive innovation and solve real-world problems. Here's more about me:
 
 - 🏫 **Education:** 
-    - MS in Information Systems, Northeastern University, Boston (Expected May 2024)
+    - MS in Information Systems, Northeastern University, Boston (Expected December 2024)
     - BE in Computer Science, Mumbai University, Mumbai (May 2018)
     
 - 🛠 **Technical Skills:** 
