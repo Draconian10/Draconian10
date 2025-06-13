@@ -4,9 +4,18 @@
 </div>
 
 <!-- Visitor Counter -->
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Draconian10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<!-- Connect Links -->
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankhania.y@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pankhania)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draconian10)
+
+</div>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -99,6 +108,13 @@ class YashPankhania:
 
 </div>
 
+<!-- Achievements -->
+## 🏆 Achievements & Certifications
+
+- 🥈 **2nd Place** - MGEN Generative AI Hackathon 2023
+- 🏆 **Best Use of Matlab Winner** - Papers2Products AI Hackathon 2024
+- 🎓 **Academic Excellence**: MS in Information Systems (Dec 2024)
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
@@ -117,29 +133,6 @@ class YashPankhania:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draconian10&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
-<!-- Achievements -->
-## 🏆 Achievements & Certifications
-
-- 🥈 **2nd Place** - MGEN Generative AI Hackathon 2023
-- 🏆 **Best Use of Matlab Winner** - Papers2Products AI Hackathon 2024
-- 🎓 **Academic Excellence**: MS in Information Systems (Dec 2024)
-
-<!-- Connect Section -->
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankhania.y@northeastern.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pankhania)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draconian10)
-
-</div>
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
 <!-- Snake Animation - Updated -->
 ## 🐍 Contribution Snake
 
@@ -149,6 +142,13 @@ class YashPankhania:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Draconian10/Draconian10/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Draconian10/Draconian10/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<!-- Daily Inspiration -->
+## 💭 Today's Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <!-- Footer -->
