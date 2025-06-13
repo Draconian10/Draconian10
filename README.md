@@ -102,7 +102,7 @@ class YashPankhania:
   
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **🤖 TMNIST CNN Classifier** | Deep learning model achieving 94.5% accuracy on typography classification | TensorFlow, CNN, Python | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/TMNIST_Alphabets_Classification_Using_CNN) |
+| **📈 StockAssist** | AI-powered stock analysis and prediction platform | Python, Machine Learning, Yahoo Finance | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/StockAssist) |
 | **🌦️ Australian Weather Predictor** | ML pipeline with 95% accuracy for rainfall prediction using AutoML | H2O AutoML, Python, scikit-learn | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/Australia_Weather_Prediction) |
 | **💬 WikiBotPro** | 🏆 2nd Place Winner - Generative AI chatbot for Wikipedia articles | OpenAI API, Streamlit, NLP | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/WikiBotPro) |
 
