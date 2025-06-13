@@ -30,7 +30,7 @@ I'm a passionate AI and Data Engineer with a Master's degree from Northeastern U
 ```python
 class YashPankhania:
     def __init__(self):
-        self.role = "AI Engineer | Machine Learning Engineer"
+        self.role = "AI/ML Engineer | Data Engineer"
         self.location = "Boston, MA"
         self.specialization = ["LLMs", "NLP", "MLOps", "Feature Engineering"]
         self.ai_stack = {
