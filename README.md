@@ -30,7 +30,7 @@ I'm a passionate AI and Data Engineer with a Master's degree from Northeastern U
 ```python
 class YashPankhania:
     def __init__(self):
-        self.role = "AI/ML Engineer | Data Engineer"
+        self.role = "AI Engineer | Machine Learning Engineer"
         self.location = "Boston, MA"
         self.specialization = ["LLMs", "NLP", "MLOps", "Feature Engineering"]
         self.ai_stack = {
@@ -102,9 +102,9 @@ class YashPankhania:
   
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **📈 StockAssist** | AI-powered stock analysis and prediction platform | Python, Machine Learning, Yahoo Finance | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/StockAssist) |
+| **🏥 MediAssist** | AI-powered patient summarization & ICD code extraction from EHR notes | LLaMA 3, Hugging Face, NLP | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/MediAssist) |
+| **📈 StockAssist** | AI-powered stock analysis and prediction platform | Python, Machine Learning, Financial APIs | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/StockAssist) |
 | **🌦️ Australian Weather Predictor** | ML pipeline with 95% accuracy for rainfall prediction using AutoML | H2O AutoML, Python, scikit-learn | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/Australia_Weather_Prediction) |
-| **💬 WikiBotPro** | 🏆 2nd Place Winner - Generative AI chatbot for Wikipedia articles | OpenAI API, Streamlit, NLP | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Draconian10/WikiBotPro) |
 
 </div>
 
