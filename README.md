@@ -124,9 +124,9 @@ class YashPankhania:
 </div>
 
 <!-- Contribution Graph -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draconian10&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
+</div> -->
 
 <!-- Activity Graph -->
 <div align="center">
