@@ -13,8 +13,8 @@
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankhania.y@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pankhania)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draconian10)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-pankhania.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draconian10)
 </div>
 
 <!-- Typing Animation -->
